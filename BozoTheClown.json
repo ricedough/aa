@@ -134,18 +134,18 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#1e2529",
-    "PRIMARY_DARK_100": "#F1F1F1",
-    "PRIMARY_DARK_200": "#1e2529",
-    "PRIMARY_DARK_300": "#F1F1F1",
-    "PRIMARY_DARK_360": "#709cb3",
-    "PRIMARY_DARK_400": "#bde6fb",
-    "PRIMARY_DARK_500": "#1e2529",
-    "PRIMARY_DARK_600": "#1e2529",
-    "PRIMARY_DARK_630": "#1e2529",
-    "PRIMARY_DARK_700": "#1e2529",
-    "PRIMARY_DARK_800": "#1e2529",
-    "PRIMARY_DARK_900": "#1e2529",
+    "PRIMARY_DARK": "#5e3640",
+    "PRIMARY_DARK_100": "#5e3640",
+    "PRIMARY_DARK_200": "#5e3640",
+    "PRIMARY_DARK_300": "#5e3640",
+    "PRIMARY_DARK_360": "#5e3640",
+    "PRIMARY_DARK_400": "#5e3640",
+    "PRIMARY_DARK_500": "#5e3640",
+    "PRIMARY_DARK_600": "#5e3640",
+    "PRIMARY_DARK_630": "#5e3640",
+    "PRIMARY_DARK_700": "#5e3640",
+    "PRIMARY_DARK_800": "#5e3640",
+    "PRIMARY_DARK_900": "#5e3640",
     "STATUS_RED": "#395f73",
     "STATUS_GREEN": "#a4d3eb"
   },
@@ -154,7 +154,7 @@
   },
   "background": {
     "blur": 1,
-    "url": "https://media.discordapp.net/attachments/996426870633545831/1018496644095950928/IMG_0638.png",
+    "url": "https://media.discordapp.net/attachments/939741274255282178/1195864122227695726/IMG_0638.jpg",
     "alpha": 1.0
   }
 }
